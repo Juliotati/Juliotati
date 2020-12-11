@@ -1,6 +1,9 @@
-### Hi there 👋
-💻 Flutter Developer
-- 🔭 I’m currently working on private goodies
-- 🌱 I’m currently learning more of dart/flutter
-### Media
+### Hi! 👋
+
+- 💻 Flutter Dev
+- 🔭 Working on private goodies
+- 🤕 Bad designs hurt
+- 🕸 Delivering solutions with WordPress
+### Links
 - [Twitter](https://twitter.com/JlioTati2)
+- [Agency](https//mocedesenhos.com)
