@@ -5,6 +5,6 @@
 - 🤕 Bad designs hurt
 - 🕸 Delivering solutions with WordPress
 ### Links
-- [Website - Portfólio](https://julio.mocedesenhos.com/dev-portfolio/)
+- [Website](https://julio.mocedesenhos.com/)
 - [Twitter](https://twitter.com/JlioTati2)
 - [Agency](https://mocedesenhos.com/)
