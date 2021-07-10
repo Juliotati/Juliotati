@@ -5,5 +5,5 @@
 - 🤕 Bad designs hurt
 
 ### Links
-- [Website](https://julio.mocedesenhos.com/)
-- [Twitter](https://twitter.com/JlioTati2)
+- [Website](https://juliotati.com/)
+- [Twitter](https://twitter.com/_juliotati)
