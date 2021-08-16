@@ -15,5 +15,5 @@
 
 
 # Daily Dev Card
-![dailydev_card_resized](https://user-images.githubusercontent.com/59662912/128543327-1efffa6f-c208-45e6-90e6-8f9effd13461.png)
+![dailydev_card_diamond_resized](https://user-images.githubusercontent.com/59662912/129550656-d4308203-b1bf-46d7-bf9d-3a54533e5331.png)
 
