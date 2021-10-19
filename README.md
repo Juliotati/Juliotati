@@ -15,7 +15,7 @@
 
 
 # Daily Dev Card
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Juliotati/Juliotati/blob/master/devcard.svg" width="300" alt="Julio Tati's Dev Card"/></a>
+<a href="https://app.daily.dev/juliotati"><img src="https://github.com/Juliotati/Juliotati/blob/master/devcard.svg" width="300" alt="Julio Tati's Dev Card"/></a>
 
 ![dailydev_card_diamond_resized](https://user-images.githubusercontent.com/59662912/129550656-d4308203-b1bf-46d7-bf9d-3a54533e5331.png)
 
