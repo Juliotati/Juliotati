@@ -2,7 +2,6 @@
 
 - 💻 Flutter Dev
 - 🤕 Bad designs hurt
-
 ## Links
 - Visit my personal [Website](https://juliotati.com/)
 - Let's connect on [Instagram](https://instagram.com/_juliotati)
@@ -19,4 +18,6 @@
 [![Júlio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-stats)
 
 [![Sparkline](https://stars.medv.io/juliotati/badges.svg)](https://stars.medv.io/juliotati/badges)
+
 ![Profile views](https://gpvc.arturio.dev/juliotati)
+[![GitHub followers](https://img.shields.io/github/followers/juliotati.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/juliotati?tab=followers)
