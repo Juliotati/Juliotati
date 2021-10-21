@@ -10,11 +10,13 @@
 - [Get Despesas](https://play.google.com/store/apps/details?id=com.mocedesenhos.despesas) at no cost on Play Store
 - Visit [Despesas's](https://despesas.juliotati.com/) Website to learn more
 
-[![Júlio Tati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliotati&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Juliotati/github-readme-stats)
+## Stats
+[![Júlio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-streak-stats)
+[![Júlio's stats](https://github-readme-stats.vercel.app/api?username=Juliotati&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Juliotati/github-readme-stats)
 
+# Languages && Dev Card
+<a href="https://app.daily.dev/juliotati"><img src="https://github.com/Juliotati/Juliotati/blob/main/devcard.svg" width="300" alt="Júlio Tati's Dev Card"/></a>
+[![Júlio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-stats)
+
+[![Sparkline](https://stars.medv.io/juliotati/badges.svg)](https://stars.medv.io/juliotati/badges)
 ![Profile views](https://gpvc.arturio.dev/juliotati)
-
-# Daily Dev Card
-<a href="https://app.daily.dev/juliotati"><img src="https://github.com/Juliotati/Juliotati/blob/master/devcard.svg" width="300" alt="Júlio Tati's Dev Card"/></a>
-
-![dailydev_card_diamond_resized](https://user-images.githubusercontent.com/59662912/129550656-d4308203-b1bf-46d7-bf9d-3a54533e5331.png)
