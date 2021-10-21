@@ -12,6 +12,8 @@
 
 [![Júlio Tati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliotati&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Juliotati/github-readme-stats)
 
+![Profile views](https://gpvc.arturio.dev/juliotati)
+
 # Daily Dev Card
 <a href="https://app.daily.dev/juliotati"><img src="https://github.com/Juliotati/Juliotati/blob/master/devcard.svg" width="300" alt="Júlio Tati's Dev Card"/></a>
 
