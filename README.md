@@ -17,5 +17,10 @@
 <a href="https://app.daily.dev/juliotati"><img src="https://github.com/Juliotati/Juliotati/blob/main/devcard.svg" width="300" alt="Júlio Tati's Dev Card"/></a>
 [![Júlio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-stats)
 
+## 🤯 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
+![Contribution grid snake animation](https://raw.githubusercontent.com/juliotati/juliotati/output/github-contribution-grid-snake.svg)
+
+generated with _[Platane/snk](https://github.com/Platane/snk)_
+
 ![Profile views](https://gpvc.arturio.dev/juliotati)
 [![GitHub followers](https://img.shields.io/github/followers/juliotati.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/juliotati?tab=followers)
