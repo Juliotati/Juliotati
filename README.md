@@ -5,7 +5,7 @@
 ## Links
 - Visit my personal [Website](https://juliotati.com/)
 - Let's connect on [Instagram](https://instagram.com/_juliotati)
-- Follow me on [Twitter](https://twitter.com/_juliotati)
+<!-- - Follow me on [Twitter](https://twitter.com/_juliotati) -->
 - [Get Despesas](https://play.google.com/store/apps/details?id=com.mocedesenhos.despesas) at no cost on Play Store
 - Visit [Despesas's](https://despesas.juliotati.com/) Website to learn more
 - Simple [Live clock](https://liveclok.web.app/) nothing fancy, "_for now_"
