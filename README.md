@@ -15,8 +15,10 @@
 [![Júlio's stats](https://github-readme-stats.vercel.app/api?username=Juliotati&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Juliotati/github-readme-stats)
 
 # Languages && Dev Card
+
 <a href="https://app.daily.dev/juliotati"><img src="https://github.com/Juliotati/Juliotati/blob/main/devcard.svg" width="300" alt="Júlio Tati's Dev Card"/></a>
-[![Júlio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-stats)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotati&theme=tokyonight)
+<!-- [![Júlio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-stats) -->
 
 ## 🤯 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
 ![Contribution grid snake animation](https://raw.githubusercontent.com/juliotati/juliotati/output/github-contribution-grid-snake.svg)
