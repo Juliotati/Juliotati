@@ -1,3 +1,6 @@
+![germit-the-coder](https://user-images.githubusercontent.com/59662912/159568127-0230807b-dd72-4c97-b023-b8acbcc9cbd4.gif)
+![blazing-elmo](https://user-images.githubusercontent.com/59662912/159568426-01f0f338-7383-4b93-bcfe-0ef4e285bbec.gif)
+
 ## Hi There! 👋
 
 - 💻 Flutter Dev
