@@ -1,8 +1,8 @@
 <!-- ![germit-the-coder](https://user-images.githubusercontent.com/59662912/159568127-0230807b-dd72-4c97-b023-b8acbcc9cbd4.gif) -->
 <!-- ![blazing-elmo](https://user-images.githubusercontent.com/59662912/159568426-01f0f338-7383-4b93-bcfe-0ef4e285bbec.gif) -->
 
-<a href="https://instagram.com/_juliotati"><img src="https://user-images.githubusercontent.com/59662912/159568127-0230807b-dd72-4c97-b023-b8acbcc9cbd4.gif" width="475" alt="Germit The Code"/></a>
-<a href="https://theselfdev.com/community/julio-tati"><img src="https://user-images.githubusercontent.com/59662912/159568426-01f0f338-7383-4b93-bcfe-0ef4e285bbec.gif" width="390" alt="Blazing Elmo"/></a>
+<a href="https://instagram.com/_juliotati"><img src="https://user-images.githubusercontent.com/59662912/159568127-0230807b-dd72-4c97-b023-b8acbcc9cbd4.gif" width="380" alt="Germit The Code"/></a>
+<a href="https://theselfdev.com/community/julio-tati"><img src="https://user-images.githubusercontent.com/59662912/159568426-01f0f338-7383-4b93-bcfe-0ef4e285bbec.gif" height="220" alt="Blazing Elmo"/></a>
 
 
 ## Hi There! 👋
