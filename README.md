@@ -15,7 +15,7 @@
 <!-- - Follow me on [Twitter](https://twitter.com/_juliotati) -->
 - [Get Despesas](https://play.google.com/store/apps/details?id=com.mocedesenhos.despesas) at no cost on Play Store
 - Visit [Despesas's](https://despesas.juliotati.com/) Website to learn more
-- Simple [Live clock](https://liveclok.web.app/) nothing fancy, "_for now_"
+- Simple [Live clock](https://liveclok.web.app/) nothing too fancy, "_for now_"
 
 ## Stats
 [![Júlio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-streak-stats)
