@@ -1,16 +1,15 @@
+<a href="https://github.com/juliotati"><img src="https://readme-typing-svg.herokuapp.com/?lines=+As%20Curious%20As%20The%20Stars✨;💻%20Cross%20Platform%20Developer;🔥!Novice%20Flutter%20Dev%20Expert;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+
 <!-- ![germit-the-coder](https://user-images.githubusercontent.com/59662912/159568127-0230807b-dd72-4c97-b023-b8acbcc9cbd4.gif) -->
 <!-- ![blazing-elmo](https://user-images.githubusercontent.com/59662912/159568426-01f0f338-7383-4b93-bcfe-0ef4e285bbec.gif) -->
 
 <a href="https://instagram.com/_juliotati"><img src="https://user-images.githubusercontent.com/59662912/159568127-0230807b-dd72-4c97-b023-b8acbcc9cbd4.gif" width="380" alt="Germit The Code"/></a>
 <a href="https://theselfdev.com/community/julio-tati"><img src="https://user-images.githubusercontent.com/59662912/159568426-01f0f338-7383-4b93-bcfe-0ef4e285bbec.gif" height="220" alt="Blazing Elmo"/></a>
 
+### 🤕 Bad designs hurt, so does bad code 🤢🤮
 
-## Hi There! 👋
+> Socials
 
-- 💻 I'm a cross platform dev
-- 🤕 Bad designs hurt, so does bad code 🤢🤮
-
-## Socials
 <a href="https://twitter.com/_juliotati" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://instagram.com/_juliotati" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://instagram.com/_juliotati" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -22,23 +21,25 @@
 <!-- https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white -->
 
 
-## Apps
+> Apps
 
-##### Despesas App
+##### Despesas
 <!-- <a href="..."><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></a> -->
 <a href="https://play.google.com/store/apps/details?id=com.mocedesenhos.despesas"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 <a href="https://despesas.juliotati.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
-##### Liveclok App
+##### Selfdev Station
 <a href="https://testflight.apple.com/join/He4Nf1fu"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.juliotati.liveclok"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 <a href="https://pomo.theselfdev.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
-## Stats
+> Stats
+
 [![Júlio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-streak-stats)
 [![Júlio's stats](https://github-readme-stats.vercel.app/api?username=Juliotati&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Juliotati/github-readme-stats)
 
-# Languages && Dev Card
+> Languages && Dev Card
+
 <a href="https://app.daily.dev/juliotati"><img src="https://github.com/Juliotati/Juliotati/blob/main/devcard.svg" width="300" alt="Júlio Tati's Dev Card"/></a>
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotati&theme=tokyonight)
 <!-- [![Júlio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-stats) -->
