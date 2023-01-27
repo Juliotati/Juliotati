@@ -24,14 +24,14 @@
 > Apps
 
 ##### Despesas
-<!-- <a href="..."><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></a> -->
+<a href="https://apps.apple.com/app/id1636338866"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.mocedesenhos.despesas"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 <a href="https://despesas.juliotati.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
-##### Selfdev Station
-<a href="https://testflight.apple.com/join/He4Nf1fu"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.juliotati.liveclok"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
-<a href="https://selfdevstation.web.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+##### Self.dev Station
+<!-- <a href="https://apps.apple.com/app/{app_id}"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></a> -->
+<a href="https://play.google.com/store/apps/details?id=com.juliotati.selfdevstation.selfdevstation"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
+<a href="https://station.theselfdev.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
 > Stats
 
