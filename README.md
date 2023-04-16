@@ -1,4 +1,4 @@
-<a href="https://github.com/juliotati"><img src="https://readme-typing-svg.herokuapp.com/?lines=+As%20Curious%20As%20The%20Stars✨;💻%20Cross%20Platform%20Developer;🔥!Novice%20Flutter%20Dev%20Expert;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+<a href="https://github.com/juliotati"><img src="https://readme-typing-svg.herokuapp.com/?lines=+As%20Curious%20As%20The%20Stars✨;💻%20Multi%20Platform%20Developer;🔥!Novice%20Flutter%20Dev%20Expert;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 
 <!-- ![germit-the-coder](https://user-images.githubusercontent.com/59662912/159568127-0230807b-dd72-4c97-b023-b8acbcc9cbd4.gif) -->
 <!-- ![blazing-elmo](https://user-images.githubusercontent.com/59662912/159568426-01f0f338-7383-4b93-bcfe-0ef4e285bbec.gif) -->
