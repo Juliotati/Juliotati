@@ -8,14 +8,14 @@
 
 ### 🤕 Bad designs hurt, so does bad code 🤢🤮
 
-> Socials
+<!-- > Socials
 
 <a href="https://twitter.com/_juliotati" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://instagram.com/_juliotati" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://instagram.com/_juliotati" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://hashnode.com/@juliotati" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 <a href="https://dev.to/_juliotati" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-<a href="https://juliotati.com/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://juliotati.com/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
 
 <!-- <a href="..."><img src="..." /></a> -->
 <!-- https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white -->
@@ -23,15 +23,21 @@
 
 > Apps
 
-##### Despesas
-<a href="https://apps.apple.com/app/id1636338866"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></a>
+#### Despesas
+[Android app](https://play.google.com/store/apps/details?id=com.mocedesenhos.despesas) |
+[iOS app](https://apps.apple.com/app/id1636338866?platform=iphone)
+<!-- <a href="https://apps.apple.com/app/id1636338866"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.mocedesenhos.despesas"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
-<a href="https://despesas.juliotati.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://despesas.juliotati.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
 
-##### Self.dev Station
-<!-- <a href="https://apps.apple.com/app/{app_id}"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></a> -->
+#### Self.dev Station
+[Web app](https://station.selfdev.app/pomodoro) |
+[Android app](https://play.google.com/store/apps/details?id=com.juliotati.selfdevstation.selfdevstation) |
+[iOS app](https://apps.apple.com/app/1667161943?platform=iphone) |
+[macOS app](https://apps.apple.com/app/1667161943)
+<!-- <a href="https://apps.apple.com/app/1667161943"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.juliotati.selfdevstation.selfdevstation"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
-<a href="https://station.theselfdev.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://station.theselfdev.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
 
 > Stats
 
