@@ -2,11 +2,12 @@
 
 <!-- ![germit-the-coder](https://user-images.githubusercontent.com/59662912/159568127-0230807b-dd72-4c97-b023-b8acbcc9cbd4.gif) -->
 <!-- ![blazing-elmo](https://user-images.githubusercontent.com/59662912/159568426-01f0f338-7383-4b93-bcfe-0ef4e285bbec.gif) -->
+> I'm a curious being interested in the human mind. As for what I spend my time with, I help translate and transform ideas to usable products in form of well engineered software.
+
+### 🤕 Bad designs hurt, so does bad code 🤢🤮
 
 <a href="https://instagram.com/_juliotati"><img src="https://user-images.githubusercontent.com/59662912/159568127-0230807b-dd72-4c97-b023-b8acbcc9cbd4.gif" width="380" alt="Germit The Code"/></a>
 <a href="https://theselfdev.com/community/julio-tati"><img src="https://user-images.githubusercontent.com/59662912/159568426-01f0f338-7383-4b93-bcfe-0ef4e285bbec.gif" height="220" alt="Blazing Elmo"/></a>
-
-### 🤕 Bad designs hurt, so does bad code 🤢🤮
 
 <!-- > Socials
 
