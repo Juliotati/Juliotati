@@ -21,7 +21,6 @@
 <!-- <a href="..."><img src="..." /></a> -->
 <!-- https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white -->
 
-
 > Apps
 
 #### Despesas
@@ -50,6 +49,9 @@
 <a href="https://app.daily.dev/juliotati"><img src="https://github.com/Juliotati/Juliotati/blob/main/devcard.svg" width="300" alt="Júlio Tati's Dev Card"/></a>
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotati&theme=tokyonight)
 <!-- [![Júlio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-stats) -->
+
+## Ever BLAZING flames of
+<a href="https://discord.gg/selfdev"><img src="https://github.com/selfdevs/self-dev-logo/blob/main/2023/self_dev_v1.png" width="300" alt="self.dev logo"/></a>
 
 ## 🤯 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
 ![Contribution grid snake animation](https://raw.githubusercontent.com/juliotati/juliotati/output/github-contribution-grid-snake.svg)
