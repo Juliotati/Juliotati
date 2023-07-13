@@ -58,5 +58,5 @@
 
 generated with _[Platane/snk](https://github.com/Platane/snk)_
 
-![Profile views](https://gpvc.arturio.dev/juliotati)
-[![GitHub followers](https://img.shields.io/github/followers/juliotati.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/juliotati?tab=followers)
+<!--![Profile views](https://gpvc.arturio.dev/juliotati)
+[![GitHub followers](https://img.shields.io/github/followers/juliotati.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/juliotati?tab=followers) -->
