@@ -53,7 +53,7 @@
 ## Ever BLAZING flames of
 <a href="https://discord.gg/selfdev"><img src="https://github.com/selfdevs/self-dev-logo/blob/main/2023/self_dev_v1.png" width="300" alt="self.dev logo"/></a>
 
-## 🤯 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
+## My contributions!! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
 ![Contribution grid snake animation](https://raw.githubusercontent.com/juliotati/juliotati/output/github-contribution-grid-snake.svg)
 
 generated with _[Platane/snk](https://github.com/Platane/snk)_
