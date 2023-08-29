@@ -30,7 +30,7 @@
 <a href="https://play.google.com/store/apps/details?id=com.mocedesenhos.despesas"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 <a href="https://despesas.juliotati.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
 
-#### Self.dev Station
+#### self.dev Station
 [Web app](https://station.selfdev.app/pomodoro) |
 [Android app](https://play.google.com/store/apps/details?id=com.juliotati.selfdevstation.selfdevstation) |
 [iOS app](https://apps.apple.com/app/1667161943?platform=iphone) |
