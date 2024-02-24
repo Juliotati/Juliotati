@@ -21,16 +21,19 @@
 <!-- <a href="..."><img src="..." /></a> -->
 <!-- https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white -->
 
-> Apps
+| Platforms | android | iPhone | web | mac | windows | Linux |
+|-----------|---------|--------|-----|-----|---------|-------|
+| [Station](https://selfdevstation.canny.io/support/p/where-can-i-find-the-app-links)   |    ✅   |    ✅   | ✅  |  ✅  |   🚧    |  ⛔️   |
+| [Despesas](https://despesas.juliotati.com/)  |    ✅   |    ✅   | ⛔️  |  ⛔️  |   ⛔️    |  ⛔️   |
 
-#### Despesas
+<!-- #### Despesas
 [Android app](https://play.google.com/store/apps/details?id=com.mocedesenhos.despesas) |
 [iOS app](https://apps.apple.com/app/id1636338866?platform=iphone)
 <!-- <a href="https://apps.apple.com/app/id1636338866"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.mocedesenhos.despesas"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 <a href="https://despesas.juliotati.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
 
-#### self.dev Station
+<!-- #### self.dev Station
 [Web app](https://station.selfdev.app/pomodoro) |
 [Android app](https://play.google.com/store/apps/details?id=com.juliotati.selfdevstation.selfdevstation) |
 [iOS app](https://apps.apple.com/app/1667161943?platform=iphone) |
@@ -39,16 +42,11 @@
 <a href="https://play.google.com/store/apps/details?id=com.juliotati.selfdevstation.selfdevstation"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 <a href="https://station.theselfdev.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
 
-> Stats
-
 [![Júlio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-streak-stats)
 [![Júlio's stats](https://github-readme-stats.vercel.app/api?username=Juliotati&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Juliotati/github-readme-stats)
 
-> Languages && Dev Card
-
 <a href="https://app.daily.dev/juliotati"><img src="https://github.com/Juliotati/Juliotati/blob/main/devcard.svg" width="300" alt="Júlio Tati's Dev Card"/></a>
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotati&theme=tokyonight)
-<!-- [![Júlio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-stats) -->
 
 ## Ever BLAZING flames of
 <a href="https://discord.gg/selfdev"><img src="https://github.com/selfdevs/self-dev-logo/blob/main/2023/self_dev_v1.png" width="300" alt="self.dev logo"/></a>
@@ -58,5 +56,5 @@
 
 generated with _[Platane/snk](https://github.com/Platane/snk)_
 
-<!--![Profile views](https://gpvc.arturio.dev/juliotati)
+<!-- ![Profile views](https://gpvc.arturio.dev/juliotati)
 [![GitHub followers](https://img.shields.io/github/followers/juliotati.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/juliotati?tab=followers) -->
