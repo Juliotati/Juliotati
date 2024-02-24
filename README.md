@@ -21,11 +21,12 @@
 <!-- <a href="..."><img src="..." /></a> -->
 <!-- https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white -->
 
-| Platforms | android | iPhone | web | mac | windows | Linux |
+| Apps | android | iPhone | web | mac | windows | Linux |
 |-----------|---------|--------|-----|-----|---------|-------|
 | [Station](https://selfdevstation.canny.io/support/p/where-can-i-find-the-app-links)   |    ✅   |    ✅   | ✅  |  ✅  |   🚧    |  ⛔️   |
 | [Despesas](https://despesas.juliotati.com/)  |    ✅   |    ✅   | ⛔️  |  ⛔️  |   ⛔️    |  ⛔️   |
 
+[![Júlio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-streak-stats)
 <!-- #### Despesas
 [Android app](https://play.google.com/store/apps/details?id=com.mocedesenhos.despesas) |
 [iOS app](https://apps.apple.com/app/id1636338866?platform=iphone)
@@ -42,8 +43,8 @@
 <a href="https://play.google.com/store/apps/details?id=com.juliotati.selfdevstation.selfdevstation"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 <a href="https://station.theselfdev.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
 
-[![Júlio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-streak-stats)
-[![Júlio's stats](https://github-readme-stats.vercel.app/api?username=Juliotati&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Juliotati/github-readme-stats)
+
+<!-- [![Júlio's stats](https://github-readme-stats.vercel.app/api?username=Juliotati&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Juliotati/github-readme-stats) -->
 
 <a href="https://app.daily.dev/juliotati"><img src="https://github.com/Juliotati/Juliotati/blob/main/devcard.svg" width="300" alt="Júlio Tati's Dev Card"/></a>
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotati&theme=tokyonight)
