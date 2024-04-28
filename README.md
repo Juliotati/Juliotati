@@ -21,7 +21,7 @@
 <!-- <a href="..."><img src="..." /></a> -->
 <!-- https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white -->
 
-| Apps | android | iPhone | web | mac | windows | Linux |
+| Apps | android | iOS | web | macOS | windows | Linux |
 |-----------|---------|--------|-----|-----|---------|-------|
 | [Station](https://selfdevstation.canny.io/support/p/where-can-i-find-the-app-links)   |    ✅   |    ✅   | ✅  |  ✅  |   🚧    |  ⛔️   |
 | [Despesas](https://despesas.juliotati.com/)  |    ✅   |    ✅   | ⛔️  |  ⛔️  |   ⛔️    |  ⛔️   |
