@@ -23,7 +23,7 @@
 
 | Apps | android | iOS | web | macOS | windows | Linux |
 |-----------|---------|--------|-----|-----|---------|-------|
-| [Station](https://selfdevstation.canny.io/support/p/where-can-i-find-the-app-links)   |    ✅   |    ✅   | ✅  |  ✅  |   🚧    |  ⛔️   |
+| [Station](https://station.selfdev.app/downloads)   |    ✅   |    ✅   | ✅  |  ✅  |   🚧    |  ⛔️   |
 | [Despesas](https://despesas.juliotati.com/)  |    ✅   |    ✅   | ⛔️  |  ⛔️  |   ⛔️    |  ⛔️   |
 
 [![Júlio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-streak-stats)
