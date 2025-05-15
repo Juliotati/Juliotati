@@ -2,7 +2,7 @@
 
 <!-- ![germit-the-coder](https://user-images.githubusercontent.com/59662912/159568127-0230807b-dd72-4c97-b023-b8acbcc9cbd4.gif) -->
 <!-- ![blazing-elmo](https://user-images.githubusercontent.com/59662912/159568426-01f0f338-7383-4b93-bcfe-0ef4e285bbec.gif) -->
-> I'm a curious being interested in the human mind. As for what I spend my time with, I help translate and transform ideas to usable products in form of well engineered software.
+> A curious being interested in the human mind. As for what he spend his time on, he helps translate and transform ideas to usable products in form of well engineered software.
 
 ### 🤕 Bad designs hurt, so does bad code 🤢🤮
 
@@ -20,13 +20,18 @@
 
 <!-- <a href="..."><img src="..." /></a> -->
 <!-- https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white -->
+<!-- | [Station](https://station.selfdev.app/downloads)   |    ✅   |    ✅   | ✅  |  ✅  |   🚧    |  ⛔️   |-->
 
-| Apps | android | iOS | web | macOS | windows | Linux |
-|-----------|---------|--------|-----|-----|---------|-------|
-| [Station](https://station.selfdev.app/downloads)   |    ✅   |    ✅   | ✅  |  ✅  |   🚧    |  ⛔️   |
-| [Despesas](https://despesas.juliotati.com/)  |    ✅   |    ✅   | ⛔️  |  ⛔️  |   ⛔️    |  ⛔️   |
+|                        Apps                      | android | iOS | web | macOS | windows | Linux |
+|--------------------------------------------------|---------|-----|-----|-------|---------|-------|
+| [Station](https://station.selfdev.app/downloads) |   ✅    |  ✅ | ✅ |  ✅   |    -    |   -   |
+| [Despesas](https://despesas.juliotati.com/)      |   ✅    |  ✅ |  - |    -   |    -   |   -   |
+| [TATI](https://tati.juliotati.com/)              |   🚧    | 🚧  | ✅ |   -    |    -   |   -   |
+| [Poems](https://poems.juliotati.com/)            |   🚧    | 🚧  | ✅ |   -    |    -   |   -   |
+| [Anime](https://anime.juliotati.com/)            |   -     |  -   | ✅ |   -    |    -   |   -   |
 
 [![Júlio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-streak-stats)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotati&theme=tokyonight)
 <!-- #### Despesas
 [Android app](https://play.google.com/store/apps/details?id=com.mocedesenhos.despesas) |
 [iOS app](https://apps.apple.com/app/id1636338866?platform=iphone)
@@ -46,8 +51,7 @@
 
 <!-- [![Júlio's stats](https://github-readme-stats.vercel.app/api?username=Juliotati&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Juliotati/github-readme-stats) -->
 
-<a href="https://app.daily.dev/juliotati"><img src="https://github.com/Juliotati/Juliotati/blob/main/devcard.svg" width="300" alt="Júlio Tati's Dev Card"/></a>
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotati&theme=tokyonight)
+<!-- <a href="https://app.daily.dev/juliotati"><img src="https://github.com/Juliotati/Juliotati/blob/main/devcard.svg" width="300" alt="Júlio Tati's Dev Card"/></a> -->
 
 ## Ever BLAZING flames of
 <a href="https://discord.gg/selfdev"><img src="https://github.com/selfdevs/self-dev-logo/blob/main/2023/self_dev_v1.png" width="300" alt="self.dev logo"/></a>
