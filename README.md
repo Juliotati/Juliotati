@@ -24,11 +24,12 @@
 
 |                        Apps                      | android | iOS | web | macOS | windows | Linux |
 |--------------------------------------------------|---------|-----|-----|-------|---------|-------|
-| [Station](https://station.selfdev.app/downloads) |   ✅    |  ✅ | ✅ |  ✅   |    -    |   -   |
-| [Despesas](https://despesas.juliotati.com/)      |   ✅    |  ✅ |  - |    -   |    -   |   -   |
-| [TATI](https://tati.juliotati.com/)              |   🚧    | 🚧  | ✅ |   -    |    -   |   -   |
-| [Poems](https://poems.juliotati.com/)            |   🚧    | 🚧  | ✅ |   -    |    -   |   -   |
-| [Anime](https://anime.juliotati.com/)            |   -     |  -   | ✅ |   -    |    -   |   -   |
+| [Atrium](https://atrium42.com/)                  |   ✅    |  ✅  | ✅  |  -    |    -    |   -   |
+| [Station](https://station.selfdev.app/downloads) |   ✅    |  ✅  | ✅  |  ✅   |    -    |   -   |
+| [Despesas](https://despesas.juliotati.com/)      |   ✅    |  ✅  |  -  |   -   |    -   |   -   |
+| [TATI](https://tati.juliotati.com/)              |   🚧    | 🚧   | ✅  |   -   |    -   |   -   |
+| [Poems](https://poems.juliotati.com/)            |   🚧    | 🚧   | ✅  |   -   |    -   |   -   |
+| [Anime](https://anime.juliotati.com/)            |   -     |  -  | ✅  |   -    |    -   |   -   |
 
 [![Júlio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=juliotati&theme=tokyonight)](https://github.com/juliotati/github-readme-streak-stats)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotati&theme=tokyonight)
